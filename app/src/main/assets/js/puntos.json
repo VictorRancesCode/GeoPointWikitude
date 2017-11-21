@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "longitude": -63.381098,
+    "latitude": -17.990830,
+    "description": "Cooperativa Progreso",
+    "altitude": -32768,
+    "name": "El Progreso"
+  },
+  {
+    "id": "2",
+    "longitude": -63.375618,
+    "latitude": -17.988786,
+    "description": "Colegio Progreso",
+    "altitude": -32768,
+    "name": "Colegio Progreso"
+  }
+]
